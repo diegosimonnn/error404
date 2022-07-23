@@ -1,6 +1,6 @@
 # Error 404 Stelarze Simon Hurtado
 
-![N|Solid](https://i.ibb.co/dc5jfwx/mockup.png)
+![N|Solid](assets/logo-primary.svg)
 
 Demostración de pagina de error 404 responsive.
 
@@ -16,7 +16,7 @@ Subido en Firebase:
 
 Para este desarrollo se tuvo en cuenta las diferentes resoluciones que puede prensentar: mobile, tablet y desktop
 
-![N|Solid](https://i.ibb.co/THSLXzv/banner-preview-rev-1.png)
+![N|Solid](https://i.ibb.co/dc5jfwx/mockup.png)
 
 Ademas se consideró el encabezado y pie de pagina del navegador en vista mobile para su diseño y pruebas de usabilidad.
 
